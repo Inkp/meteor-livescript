@@ -1,0 +1,8 @@
+{
+	"name": "livescript-compiler",
+	"description": "LiveScript, a CoffeeScript descendant with improvements and new features.",
+	"homepage": "https://github.com/Inkp/meteor-livescript",
+	"author": "Vasaka",
+	"version": "0.1.0",
+	"git": "https://github.com/Inkp/meteor-livescript.git"
+}
